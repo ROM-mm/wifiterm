@@ -1,0 +1,14 @@
+/Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/bin/Debug/net9.0/wifiterm.ConsoleApp
+/Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/bin/Debug/net9.0/wifiterm.ConsoleApp.deps.json
+/Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/bin/Debug/net9.0/wifiterm.ConsoleApp.runtimeconfig.json
+/Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/bin/Debug/net9.0/wifiterm.ConsoleApp.dll
+/Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/bin/Debug/net9.0/wifiterm.ConsoleApp.pdb
+/Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/obj/Debug/net9.0/wifiterm.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/obj/Debug/net9.0/wifiterm.ConsoleApp.AssemblyInfoInputs.cache
+/Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/obj/Debug/net9.0/wifiterm.ConsoleApp.AssemblyInfo.cs
+/Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/obj/Debug/net9.0/wifiterm.ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/obj/Debug/net9.0/wifiterm.ConsoleApp.dll
+/Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/obj/Debug/net9.0/refint/wifiterm.ConsoleApp.dll
+/Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/obj/Debug/net9.0/wifiterm.ConsoleApp.pdb
+/Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/obj/Debug/net9.0/wifiterm.ConsoleApp.genruntimeconfig.cache
+/Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/obj/Debug/net9.0/ref/wifiterm.ConsoleApp.dll
