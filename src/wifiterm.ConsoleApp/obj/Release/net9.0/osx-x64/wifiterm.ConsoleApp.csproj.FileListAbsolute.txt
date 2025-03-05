@@ -197,3 +197,4 @@
 /Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/obj/Release/net9.0/osx-x64/refint/wifiterm.dll
 /Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/obj/Release/net9.0/osx-x64/wifiterm.pdb
 /Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/obj/Release/net9.0/osx-x64/ref/wifiterm.dll
+/Users/romeritomorais/Documents/Develop/project-c#/wifiterm/src/wifiterm.ConsoleApp/obj/Release/net9.0/osx-x64/wifiterm.ConsoleApp.sourcelink.json
