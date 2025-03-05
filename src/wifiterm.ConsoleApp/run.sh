@@ -21,6 +21,8 @@ elif [ "$1" == "release" ]; then
     -p:PublishSingleFile=true \
     -p:EnableCompressionInSingleFile=true \
     -p:AssemblyName=wifiterm \
+    -p:DebugType=None \
+    -p:DebugSymbols=false \
     -o publish
     echo "wifiterm generated successfully in src/publish!"
 else
@@ -28,3 +30,9 @@ else
     echo "Usage: $0 [debug|release]"
     exit 1
 fi
+
+echo "Cleaning project..."
+dotnet clean
+dotnet nuget locals all --clear
+rm -rf bin obj
+echo "✅ Cleanup complete!"
