@@ -13,10 +13,12 @@ fi
 # Define comportamento baseado no parâmetro
 if [ "$1" == "debug" ]; then
     rm -rf ${local}/bin
+    rm -rf ${local}/obj
     dotnet run
     echo "wifiterm generated successfully in src/bin/Debug!"
 elif [ "$1" == "release" ]; then
     rm -rf ${local}/publish
+    rm -rf ${local}/obj
     dotnet publish -c Release -r osx-arm64 --self-contained true \
     -p:PublishSingleFile=true \
     -p:EnableCompressionInSingleFile=true \
