@@ -17,7 +17,7 @@ if [ "$1" == "debug" ]; then
     echo "wifiterm generated successfully in src/bin/Debug!"
 elif [ "$1" == "release" ]; then
     rm -rf ${local}/publish
-    dotnet publish -c Release -r osx-x64 --self-contained true \
+    dotnet publish -c Release -r osx-arm64 --self-contained true \
     -p:PublishSingleFile=true \
     -p:EnableCompressionInSingleFile=true \
     -p:AssemblyName=wifiterm \
